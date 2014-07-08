@@ -44,7 +44,8 @@ Persona                         5
 
 Stunts
     Kinetic Shield
-        5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy, High Velocity projectiles, Explosives, and Nanoblades
+        5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy,
+        High Velocity projectiles, Explosives, and Nanoblades
 
 Augmentations
     Sub-dermal Plates
