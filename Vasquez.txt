@@ -1,0 +1,40 @@
+Name:                     Vasquez
+Age:                      30's
+Description:              A Human male
+
+
+
+
+High Concept              - Weapon Specialist
+Ambition Aspect           - Gold plated everything
+Background Aspect         - Private Security Troubleshooter
+Conviction Aspect         - "There are a lot of zeros before that decimal point"
+Disadvantage Aspect       - So thats what 150 kilos of gear does to you
+Exceptional Skill Aspect  - Chunky Salsa
+Foe Aspect                - TBD
+Gear Aspect               - <A Gauss LMG>
+Help Aspect               - TBD
+Inferior Skill Aspect     - "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
+
+
+Level [1]
+Health [Healthy] [Injured] [Wounded] [Incapacitated]
+Stamina [20]
+Edge [1]
+
+45
+Body                    5
+    Lift/Carry/Haul     5
+
+Reflexes                5
+    Firearms            10
+    Dodge               10
+
+Wits                    5
+    Perception          10
+
+Persona                 5
+    Intimidate          10
+
+Stunts
+    Kinetic Shield - 5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy, High Velocity projectiles, Explosives, and Nanoblades
