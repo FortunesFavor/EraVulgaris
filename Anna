@@ -22,15 +22,24 @@ Health [Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina [20]
 Edge [1]
   
-Body
+Body              5
+	Marital Arts    5
+	Lift/Carry/Haul 10
 
-Reflexes
-  Dodging
+Reflexes          5
+  Dodging         10
+  Firearms        5
+  Pilot           10
+  Athletics       5
+  
 
-Wits
-  Perception
-  Engineering
+Wits              5
+  Perception      10
+  Engineering     10
+  Starnet         5
 
-Persona
-
+Persona           5
+	Charm           5
+	Sense Motive    5
+	
 Stunts
