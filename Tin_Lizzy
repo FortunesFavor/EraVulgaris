@@ -2,9 +2,6 @@ Name: Georgia 'Tin Lizzy' Preston
 Age: 27
 Description: A tall, rough looking woman carrying a nanoblade at her side and a massive gun on her hip, dressed in rags.
 
-
-
-
 High Concept              - Space Pirate
 Ambition Aspect           - Every happiness is a hostage to fortune
 Background Aspect         - Warmaiden of the Kas Dynasty
@@ -21,23 +18,23 @@ Health    [Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina   [20]
 Edge      [1]
   
-Body          5
-  Martial Arts        10
-  Lift/Carry/Haul     5
-  Parkour             5
+Body                5
+  Martial Arts              10
+  Lift/Carry/Haul           5
+  Parkour                   5
 
-Reflexes      5
-  Dodge               10
-  Swordplay           10
-  Firearms            10
+Reflexes            5
+  Dodge                     10
+  Swordplay                 10
+  Firearms                  10
   
-Wits          5
-  Perception          5
+Wits                5
+  Perception                5
 
-Persona       5
-  Bluff               10
-  Diplomacy           5
-  Intimidate          10
+Persona             5
+  Bluff                     10
+  Diplomacy                 5
+  Intimidate                10
 
 Stunts
       Wired Reflexes - Spend 10 stamina to automatically dodge an attack made against you.
