@@ -14,7 +14,7 @@ Exceptional Skill Aspect -
 Foe Aspect - Purity First
 Gear Aspect - "Right tool for the job"
 Help Aspect - "Give me a few while I download the instructions"
-Inferior Skill Aspect -
+Inferior Skill Aspect - "I'm better reading code, not people"
 
 
 Level [1]
@@ -23,23 +23,23 @@ Stamina [20]
 Edge [1]
   
 Body			5
-	Marital Art		5
-	Lift/Carry/Haul		10
+	Marital Art	  5
+	Lift/Carry/Haul	  10
 
 Reflexes		5
-	Dodging			10
-	Firearms		5
-	Pilot			10
-	Athletics		5
+	Dodging		  10
+	Firearms	  5
+	Pilot		  10
+	Athletics	  5
   
 
 Wits			5
-	Perception		10
-	Engineering		10
-	Starnet			5
+	Perception	  10
+	Engineering	  10
+	Starnet		  5
 
 Persona			5
-	Charm			5
-	Sense Motive		5
+	Charm		  5
+	Sense Motive	  5
 	
 Stunts
