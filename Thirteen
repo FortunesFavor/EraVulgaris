@@ -1,0 +1,38 @@
+Name: Thirteen aka STS Sycrause
+Age: 11 
+Description: An Exo-Human Light Freighter
+
+High Concept              - Heavily Modified Light Freighter
+Background Aspect         - Former Independant Mining Ship
+Disadvantage Aspect       - Slow in Atmo
+Exceptional Skill Aspect  - Hits like a truck
+Gear Aspect               - Dynn Sub-Six Smartgun Array
+Inferior Skill Aspect     - Shields flicker
+
+
+Level     [1]
+Health    [Shield] [Armor] [Healthy] [Injured] [Wounded] [Incapacitated]
+Stamina   [20]
+Edge      [1]
+  
+
+Engines           5
+
+    Anna's modifications          10
+    
+
+Generators        5
+  
+    Red Orchid Thorium Reactor    5  
+
+Weapon Systems    5
+    Dynn Sub-six Smartgun Array   5
+    
+
+Navigation        5
+
+    Starnet Uplink port           5
+    
+Stunts
+      
+    EMP - For 10 stamina, 13 can fire off an EMP that will disable ship systems for one round
