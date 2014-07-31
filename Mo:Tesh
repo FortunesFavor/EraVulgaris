@@ -37,7 +37,7 @@ Help Aspect				        	-  Spies, Spies everywhere
       Either through previous favours and agreements he has earned, or through some of the connectoins of his old man, there is very little he can not eventually track down.  A few key words in the right ears could unlock the door to a server for a few hours, or lock out the local law enforcement, which is why he is kept around.  There are a few hidden game servers with slaved commands to access government databases out there, just to make the job more entertaining. 
 
 Inferior Skill Aspect				-  Firearms
-      Just being part of a pirate crew doesn't mean you can shoot straight and plunder enemy ships, and Tesh is testimony to that fact.  Anywhere in front of his gun is a dangerous place to be when he pulls the trigger, and even behind the gun is not a guarenteed safe spot.  The crew often talk about his many attempts at the firing range, and how he has somehow managed to put rounds 45 degrees away from the center of a frame mounted gun.
+      Just being part of a pirate crew doesn't mean you can shoot straight and plunder enemy ships, and Tesh is testimony to that fact.  Anywhere in front of his gun is a dangerous place to be when he pulls the trigger, and even behind the gun is not a guarenteed safe spot.  The crew often talk about his many attempts at the firing range, and how he has somehow managed a 45 degress of accuracy using frame mounted weapons.
 
 
 
@@ -46,25 +46,28 @@ Health 	   [Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina    [20]
 Edge       [1]
   
-Body        5	 
-  Martial Arts                5
-  Lift/Carry/Haul             5
-  Athletics                   5
+Body                         *4*
+  Natural Weapons             3
+        A mixture of instincts, senses and natural weapons allow him to operate fairly effectively in hand to hand combat even though he lacks any formal training.  A skilled martial artest could merge his style into another with enough time, but for now he is brutal and over-reaching with many of his attacks.  
+  Brute Strength              2
+        A cat in space is only as good as his genetics as much of the training they enture requires their strong gravity.  As Tesh has had a life in space, he is unable to carry the same impressive amounts as others of his kind.  This doesn't make him as weak as a cub, just a little under normal for a human of his size and build.  
+  Athletics                   8
+        Those genes are quite good and space has not been able to diminish his training when it comes to flexibility.  There is a rumor on the ship that a cat is more then able to suck himself off, a feat that he has demostraited once or twice.  Near absolute control of his balance, the ability to dig his claws into the walls and a longer endurance then a normal human make him a peek athlete without any dedicated training.  
 
 Reflexes    5		 
-  Dodge                       5
-  Firearms                    5
+  Dodge                       8
+  Firearms                    3
+  Stealth                     6
  
 Wits        5
   Hacking                     10
-  Perception                  10
-  Gather Information          10
+  Perception                  8
+  Gather Information          8
 
 Persona      5			
   Negotiation                 10
-  Sense Motive                10
-  Hiding                      5
+  Sense Deception             10
+  Silver-Tongue                4
 
 Stunts
-
 Electronic Counter Measures - Spend 10 Stamina to perform a Hack action in combat
