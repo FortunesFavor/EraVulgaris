@@ -1,6 +1,7 @@
 Vasquez
 =======
 
+
 Age:
     30's
 Description:
@@ -73,4 +74,7 @@ Augmentations
 *************
 
 - Sub-dermal Plates
+
   - Grants the [Armored] health level
+
+.. image:: Vasquez.jpg
