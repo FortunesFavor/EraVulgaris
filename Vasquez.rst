@@ -1,52 +1,83 @@
 Vasquez
 =======
-Age:                      30's
-Description:              A Human female
 
+Age:
+    30's
+Description:
+    A Human female
 
+Aspects
+*******
 
+High Concept:
+    Weapon Specialist
+Ambition Aspect:
+    Gold plated everything
+Background Aspect:
+    Private Security Troubleshooter
+Conviction Aspect:
+    "There are a lot of zeros before that decimal point"
+Disadvantage Aspect:
+    "So thats what 150 kilos of gear does to you"
+Exceptional Skill Aspect:
+    Chunky Salsa
+Foe Aspect:
+    TBD
+Gear Aspect:
+    DYNN FN M650 'Auger' <nicknamed: Bitchus Maximus>
+Help Aspect:
+    Kevin 'Chinaman' Soo, arms dealer
+Inferior Skill Aspect:
+    "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
 
-High Concept              - Weapon Specialist
-Ambition Aspect           - Gold plated everything
-Background Aspect         - Private Security Troubleshooter
-Conviction Aspect         - "There are a lot of zeros before that decimal point"
-Disadvantage Aspect       - "So thats what 150 kilos of gear does to you"
-Exceptional Skill Aspect  - Chunky Salsa
-Foe Aspect                - TBD
-Gear Aspect               - DYNN FN M650 'Auger' <nicknamed: Bitchus Maximus>
-Help Aspect               - Kevin 'Chinaman' Soo, arms dealer
-Inferior Skill Aspect     - "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
+Stats
+*****
 
+Level:
+    1
+Health:
+    [Armored] [Healthy] [Injured] [Wounded] [Incapacitated]
+Stamina:
+    20
+Edge:
+    1
 
-Level [1]
-Health [Armored] [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina [20]
-Edge [1]
+Skills & Abilities
+******************
 
-Body                            5
-    Lift/Carry/Haul             5
-    Improvised Melee Weapons    10
+- Body                          5
 
-Reflexes                        5
-    Firearms                    10
-    Dodge                       10
+  - Lift/Carry/Haul             5
+  - Improvised Melee Weapons    10
 
-Wits                            5
-    Perception                  10
-    Tactics                     10
-    Knowledge: Weapon Systems   5
-    Knowledge: 0-Tech Survival  5
+- Reflexes                      5
 
-Persona                         5
-    Intimidate                  5
-    Sense Motive                5
-    Bluff                       5
+  - Firearms                    10
+  - Dodge                       10
+
+- Wits                          5
+
+  - Perception                  10
+  - Tactics                     10
+  - Knowledge: Weapon Systems   5
+  - Knowledge: 0-Tech Survival  5
+
+- Persona                       5
+
+  - Intimidate                  5
+  - Sense Motive                5
+  - Bluff                       5
 
 Stunts
-    Kinetic Shield
-        5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy,
-        High Velocity projectiles, Explosives, and Nanoblades
+******
+
+- Kinetic Shield
+
+  - 5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy,
+    High Velocity projectiles, Explosives, and Nanoblades
 
 Augmentations
-    Sub-dermal Plates
-        Grants the [Armored] health level
+*************
+
+- Sub-dermal Plates
+  - Grants the [Armored] health level
