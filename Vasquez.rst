@@ -9,25 +9,25 @@ Description:
 Aspects
 *******
 
-High Concept:
+:High Concept:
     Weapon Specialist
-Ambition Aspect:
+:Ambition:
     Gold plated everything
-Background Aspect:
+:Background:
     Private Security Troubleshooter
-Conviction Aspect:
+:Conviction:
     "There are a lot of zeros before that decimal point"
-Disadvantage Aspect:
+:Disadvantage:
     "So thats what 150 kilos of gear does to you"
-Exceptional Skill Aspect:
+:Exceptional:
     Chunky Salsa
-Foe Aspect:
+:Foe:
     TBD
-Gear Aspect:
+:Gear:
     DYNN FN M650 'Auger' <nicknamed: Bitchus Maximus>
-Help Aspect:
+:Help:
     Kevin 'Chinaman' Soo, arms dealer
-Inferior Skill Aspect:
+:Inferior:
     "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
 
 Stats
@@ -71,10 +71,11 @@ Skills & Abilities
 Stunts
 ******
 
-- Kinetic Shield
+Kinetic Shield
+++++++++++++++
 
-  - 5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy,
-    High Velocity projectiles, Explosives, and Nanoblades
+5 Stamina / Round : Able to block incoming projectiles, vulnerable to Energy,
+High Velocity projectiles, Explosives, and Nanoblades
 
 Augmentations
 *************
