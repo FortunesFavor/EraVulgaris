@@ -9,26 +9,18 @@ Description:
 Aspects
 *******
 
-:High Concept:
-    Weapon Specialist
-:Ambition:
-    Gold plated everything
-:Background:
-    Private Security Troubleshooter
-:Conviction:
-    "There are a lot of zeros before that decimal point"
-:Disadvantage:
-    "So thats what 150 kilos of gear does to you"
-:Exceptional:
-    Chunky Salsa
-:Foe:
-    TBD
-:Gear:
-    DYNN FN M650 'Auger' <nicknamed: Bitchus Maximus>
-:Help:
-    Kevin 'Chinaman' Soo, arms dealer
-:Inferior:
-    "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
+=================   ====================================================
+High Concept        Weapon Specialist
+Ambition            Gold plated everything
+Background          Private Security Troubleshooter
+Conviction          "There are a lot of zeros before that decimal point"
+Disadvantage        "So thats what 150 kilos of gear does to you"
+Exceptional Skill   Chunky Salsa
+Foe                 TBD
+Gear                DYNN FN M650 'Auger' <nicknamed: Bitchus Maximus>
+Help                Kevin 'Chinaman' Soo, arms dealer
+Inferior Skill      "ENGLISH, MOTHERFUCKER, DO YOU SPEAK IT?"
+=================   ====================================================
 
 Stats
 *****
